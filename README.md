@@ -46,7 +46,6 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
- ![snake eating my contributions](https://raw.githubusercontent.com/NillasIT/NillasIT/output/github-contribution-grid-snake.svg)
   
   <br/><br/><br/>
 </div>
